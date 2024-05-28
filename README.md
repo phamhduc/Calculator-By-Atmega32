@@ -39,4 +39,11 @@ Press "AC" button the reset the calculater. in my project, i use interupt method
 
 ![image](https://github.com/phamhduc/Calculator-By-Atmega32/assets/101264143/0c26a9df-7215-4342-a620-c46db0ba922f)
 
+## How to use
+
+* You can use the HEX file to upload to your simulation program, in this project I used proteus.
+* You can also use HEX file to upload ATMEGA32 microcontroller.
+* You can access main project file .c to build the project.
+* remember to put lcd.h as a header file to use the LCD correctly.
+
 

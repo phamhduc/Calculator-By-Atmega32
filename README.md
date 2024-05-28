@@ -46,4 +46,6 @@ Press "AC" button the reset the calculater. in my project, i use interupt method
 * You can access main project file .c to build the project.
 * remember to put lcd.h as a header file to use the LCD correctly.
 
+* Simulation video: https://www.youtube.com/watch?v=h4zpLnp8flw
+
 

@@ -1,10 +1,10 @@
 # Calculator-By-Atmega32
 ## About  this project 
-This project demonstrate the working principle of an calculator using Matrix KeyPad.
-Using AVR studio to program ATMEGA32.
-simulation in Proteus.
-In this project, I intended to make an simple calculator with 4 basic operator.
-This system is capable of operating Decimal aand float number.
+*This project demonstrate the working principle of an calculator using Matrix KeyPad.*
+*Using AVR studio to program ATMEGA32.
+*simulation in Proteus.
+*In this project, I intended to make an simple calculator with 4 basic operator.
+* This system is capable of operating Decimal and float number.
 ## Simulation
 * "+" operator
 ![image](https://github.com/phamhduc/Calculator-By-Atmega32/assets/101264143/0659a77a-0665-4f4a-b09c-02869d42c620)
